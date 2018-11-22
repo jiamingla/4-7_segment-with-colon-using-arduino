@@ -8,5 +8,5 @@ This is our first and last project in vecation school.
 The thing we learned is not only to use library but buy a clock module(Ex:DS3231_RTC) can quickly solve them without much trouble.
 
 這是一個需要重做的一個專案，謝謝你讀到這裡。
-This is a project need to rebuild,thank u for read.
+This is a project need to be rebuild,thank u for read.
 
